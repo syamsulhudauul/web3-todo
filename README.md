@@ -37,7 +37,6 @@ This is a decentralized to-do list application that allows users to manage their
 
 4. Deploy the smart contract:
    ```sh
-   cd smart-contract
    npx hardhat run scripts/deploy.js --network {networkName}
    ```
 
